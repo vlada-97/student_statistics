@@ -13,6 +13,7 @@ cd student_statistics
 ### 2. Создать виртуальную среду 
 ```commandline
 python -m venv venv . 
+cd venv/Scripts/activate
 ```
 
 ### 3. Установить зависимости
